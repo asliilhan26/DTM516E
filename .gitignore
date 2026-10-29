@@ -1,0 +1,9 @@
+# Ignore everything...
+*
+# ...except these
+!.gitignore
+!README.md
+!DTM516E_Quiz1_SAWB_MLP.ipynb
+!DTM516E_Quiz1_slides.pdf
+!figs/
+!figs/*.png
