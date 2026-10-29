@@ -1,10 +1,10 @@
-# Ignore everything...
+# Only the quiz deliverables go to GitHub; everything else stays local.
 *
-# ...except these
+
 !.gitignore
 !README.md
 !DTM516E_Quiz1_SAWB_MLP.ipynb
 !DTM516E_Quiz1_slides.pdf
+!quiz1.mp4
 !figs/
 !figs/*.png
-!quiz1.mp4
